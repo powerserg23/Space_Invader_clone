@@ -1,0 +1,32 @@
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\bin\Debug\A Journey Home.exe.config
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\bin\Debug\A Journey Home.exe
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\bin\Debug\A Journey Home.pdb
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A Journey Home.csprojAssemblyReference.cache
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A_Journey_Home.Properties.Resources.resources
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A Journey Home.csproj.GenerateResource.cache
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A Journey Home.csproj.CoreCompileInputs.cache
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A Journey Home.exe
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A Journey Home.pdb
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A_Journey_Home.Form1.resources
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\bin\Debug\Interop.WMPLib.dll
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\Interop.WMPLib.dll
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\diska\Desktop\A Journey Home\A Journey Home\obj\Debug\A Journey Home.csproj.ResolveComReference.cache
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A Journey Home.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\Interop.WMPLib.dll
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A Journey Home.csproj.ResolveComReference.cache
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A Journey Home.exe
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A Journey Home.pdb
+C:\Users\sergi\Desktop\A Journey Home\bin\Debug\A Journey Home.exe.config
+C:\Users\sergi\Desktop\A Journey Home\bin\Debug\A Journey Home.exe
+C:\Users\sergi\Desktop\A Journey Home\bin\Debug\A Journey Home.pdb
+C:\Users\sergi\Desktop\A Journey Home\bin\Debug\Interop.WMPLib.dll
+C:\Users\sergi\Desktop\A Journey Home\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A_Journey_Home.Form1.resources
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A_Journey_Home.Properties.Resources.resources
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A Journey Home.csproj.GenerateResource.cache
+C:\Users\sergi\Desktop\A Journey Home\obj\Debug\A Journey Home.csproj.CoreCompileInputs.cache
